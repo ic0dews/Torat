@@ -1,0 +1,42 @@
+Version 0.0.1
+
+-Added Restart Server
+-Added Close Server
+
+Version 0.0.2
+
+-Change Tor Configs on ToRAT (CnCServer) and Stub (Client). Now They make sure to use there own tor.exe and automatically change ports if in use.
+-Better error checking added in ReadConnection() function
+-File Upload function added (needed for later filetransfers and Update Client)
+-Added Update Server
+
+Version 0.1.0
+
+-Added Remote Shell
+
+Version 0.1.1
+
+-Edited Log text
+-Remote Shell now with @crlf after "Loading..."
+
+Version 0.1.2
+
+-Remote Shell now saves the last 10 commands (choose with up and down arrow key)
+-Client and Server sleeps 5 second when shutdown (to give sqlite time to backup and finalize statements)
+
+Version 0.1.3
+
+-Added Client Version and SocketID to Client ID
+
+Version 0.2.0
+
+-Added Client Builder with EoF and RCDATA resource Method
+
+Version 0.2.1
+
+-Added Mutex Function to Stub
+-Added Install and Startup Function to Stub
+-Fixed a bug when building Client with icon failed
+-Added Builder Log
+
+
